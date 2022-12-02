@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "chat-9fc74",
+    "flutterfirebase1-1": "flutterfirebase1-1",
+    "gestion stock": "gestion-stock-48bf7",
+    "chat": "chat-9fc74"
+  },
+  "targets": {},
+  "etags": {}
+}
